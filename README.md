@@ -18,4 +18,5 @@ Bu proje, basit bir hesap makinesi uygulamasıdır. React.js ve CSS kullanılara
 - Ekranda girilen matematiksel ifadeyi gösterme.<br>
 - Hesaplama sonucunu gösterme.<br>
 - Girdi ve sonucu temizleyebilme.<br>
-![Ekran görüntüsü 2024-06-03 153410](https://github.com/haticenurdincelsen/CalculatorApp/assets/142350794/4ec313e4-8ceb-431a-89f8-d454cbc4aaad)
+
+![Ekran görüntüsü 2024-06-03 153410](https://github.com/haticenurdincelsen/CalculatorApp/assets/142350794/b05bb30a-9522-49ff-859a-a349adb9e0c1)
